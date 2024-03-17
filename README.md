@@ -1,2 +1,2 @@
-# disdukcapil-kota-medan
-website sederhana
+# smkn-9-medan
+smkn 9 medan
